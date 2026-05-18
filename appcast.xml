@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dronchik123124/lalala/main/Onyx.zip" length="3622898" type="application/octet-stream" sparkle:edSignature="R5nC6J5yFJvX9Gq5mdwpUZbDV2mNjlphjGeom74PZIhMCN31oieF7C2Riw4LXpj47xL99hIklAsfdgf2wEPOCA=="/>
+            <enclosure url="https://github.com/dronchik123124/lalala/releases/download/v1.0.3/Onyx.zip" length="3622898" type="application/octet-stream" sparkle:edSignature="R5nC6J5yFJvX9Gq5mdwpUZbDV2mNjlphjGeom74PZIhMCN31oieF7C2Riw4LXpj47xL99hIklAsfdgf2wEPOCA=="/>
         </item>
     </channel>
 </rss>
