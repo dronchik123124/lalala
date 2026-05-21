@@ -3,12 +3,12 @@
     <channel>
         <title>Onyx</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Tue, 19 May 2026 01:44:24 +0300</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.0.5</title>
+            <pubDate>Thu, 21 May 2026 13:32:18 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dronchik123124/lalala/releases/download/v1.0.4/Onyx.1.0.4.zip" length="5504276" type="application/octet-stream" sparkle:edSignature="yRodbVkIpXhigE8UqghefKIyR96oWGLa+eKxnXFU8LE0mxRuCnranRbtkLN1rinMUPMfqhgnpWkCjTNKOWO4AQ=="/>
+            <enclosure url="https://github.com/dronchik123124/lalala/releases/download/v1.0.5/Onyx.1.0.5.zip" length="6146743" type="application/octet-stream" sparkle:edSignature="A9tVtE2COhqdk050ZYAGMXBXlpACAl0JnuxIJE0xmeoq9jepRqTlGcqGa5moC0qhq+NV+4ofZz1LroBuR0x9Bg=="/>
         </item>
     </channel>
 </rss>
